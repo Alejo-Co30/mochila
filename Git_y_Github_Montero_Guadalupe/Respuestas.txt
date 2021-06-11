@@ -5,3 +5,9 @@ Sin embargo, el hecho de ser un software propietario y ciertas desavenencias con
 
 Git fue diseñado por Torvalds con el proyecto de Linux y el workflow  de sus desarrolladores en mente y, obviamente, estos fueron los primeros en adoptarlo como sistema de control de versiones. El modo de funcionamiento distribuido, su eficiencia a la hora de trabajar con múltiples ramas y otras operaciones comunes como diffs (que en git se ejecutan en un suspiro), dan testimonio de cómo git fue diseñado con la intención de gestionar proyectos grandes como el kernel sin problemas.
 
+¿A quién pertenece actualmente Github y por qué?
+Se ha confirmado el rumor que ha hecho hervir mentes y corazones a lo largo del fin de semana: Microsoft compra GitHub. El acuerdo está cerrado, aunque será a finales de año cuando se complete la transacción, que contempla un pago de 7.500 millones de dólares y la reordenación de los actuales directivos de la plataforma.
+Cabe recordar que Microsoft ya lo intentó con su propia plataforma de desarrollo, CodePlex, que terminó cerrando el año pasado dado el relativamente poco impacto que tuvo en comparación con alternativas como la propia GitHub.
+
+¿Hay otra forma que no sea la terminal para trabajar con Github?
+Por el momento no conozco otra forma y en internet tampoco he visto otra forma
