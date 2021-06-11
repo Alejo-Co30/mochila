@@ -12,6 +12,7 @@ Los objetivos del nuevo sistema fueron los siguientes:
 
 b. ¿A quién pertenece actualmente Github y por qué?
 El software que opera GitHub fue escrito en Ruby on Rails, por Chris Wanstrath, P. J. Hyett, Tom Preston-Werner y Scott Chacon (2008). En 2018 Microsoft compró GitHub, poniendo su confianza en el Oper Source e invitando a desarrolladores a usar Windows.
- 
+
 
 c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+No..sólo desde una terminal ya sea Git bash o en VSC ¿?
