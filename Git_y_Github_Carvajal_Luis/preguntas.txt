@@ -6,3 +6,5 @@ Actualmente el sistema de versiones le pertenece a Microsoft. Reconocieron en es
 
 ¿Hay otra forma que no sea la terminal para trabajar con Github?
 Se puede usar desde su página principal, pero sus funciones a grandes rasgos, solo puede ser usada en la terminal.
+
+Cambios esenciales.
