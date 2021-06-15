@@ -1,4 +1,4 @@
-# Estructura de una computadora
+# CLASE 5 Estructura de una computadora
 
 Vimos los componentes de una computadora y realizamos 2 actividades: 
 1) Actividad en Padlet "ARMA TU PC" https://padlet.com/PedagogiaDH/31t97k3dhzcfd014
