@@ -1,1 +1,3 @@
-# camada3_eri
+# CLASE 1 INTRODUCCION
+
+Vimos conceptos varios de informatica 
