@@ -1,0 +1,59 @@
+Crear un nuevo repositorio local: $ git init
+
+Configurar nombre de usuario: $ git config user.name "nombre de usuario"
+
+configurar nombre de usuario en nuestro dispositivo personal: $ git config --global user.name "nombre de usuario"
+
+Configurar email de usuario: $ git config user.email "email"
+
+configurar email de usuario en nuestro dispositivo personal: $ git config --global user.emai�l "email"
+
+clonar un repositorio existente: $ git clone ssh://usuario@domain.com/repo.git
+
+Limpia la pantalla de la terminal: $ clear
+
+Renombra archivos: $ mv [ruta/archivo1] [ruta/archivo2]
+
+Renombra la carpeta1 como carpeta2: $ mv [ruta/carpeta1] [ruta/carpeta2]
+
+Mueve contenido de carpeta1 a carpeta2: $ mv [ruta/carpeta1] [ruta/carpeta2]
+
+Sube un nivel de carpeta: $ cd
+
+Cambia de carpeta: $ cd
+
+Crea una nueva directorio o carpeta: $ mkdir [Carpeta]
+
+Crea un nuevo archivo: $ touch [Nombre del archivo]
+
+Elimina un archivo: $ rm [Nombre del archivo]
+
+Lista archivos en el directorio o carpeta: $ ls
+
+Muestra las carpetas y los archivos contenidos en ellos de manera recursiva: $ ls -R
+
+Verificar el estado de los archivos/directorios: git status
+
+Añadir un archivo: git add nombre_archivo_directorio/ git add . / git add --all (todos los archivos)
+
+Commitear un archivo/directorio: git commit nombre_archivo -m "mensaje del commit"
+
+Remover un archivo o directorio: git rm archivo / git rm -r directorio (remueve el directorio y los archivos que contiene)
+
+Ver el historial de actividad:  git log
+
+enlaza el repositorio local con un repositorio remoto: git remote add origin git@github.com:minombre/archivo-git.git
+
+Actualizar el repositorio local según el repositorio remoto: git pull
+
+Clonar un repositorio remoto existente: git clone git@github.com:minombre/archivo-git.git
+
+crea una nueva branch: git branch nuevaBranch_nombre
+
+cambia a una branch existente: git checkout nuevaBranch_nombre
+
+crea una nueva branch y apunta a ella: git checkout -b nuevaBranch_nombre 
+
+lista branches: git branch
+
+ 
