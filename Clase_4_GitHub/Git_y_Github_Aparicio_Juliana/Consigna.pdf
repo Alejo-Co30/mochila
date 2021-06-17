@@ -1,0 +1,54 @@
+COMANDOS MÁS UTILIZADOS:
+
+COMANDOS PARA RAMAS DE GIT (BRANCH):
+
+- git branch
+
+Enumera todas las ramas de tu repositorio.
+
+- git branch "Nombre"
+
+Crea una nueva rama llamada "Nombre"
+
+- git checkout "Nombre"
+
+Nos mueve a la rama "Nombre"
+
+- git push origin "Nombre"
+
+Sube los cambios de la rama a GitHub
+
+- git pull origin "Nombre"
+
+Trae los cambios de la rama "Nombre" que están en GitHub
+
+- git branch -d "Nombre"
+
+Borra (delete) la rama "Nombre"
+
+- git branch -D "Nombre"
+
+Borra forzosamente esa rama
+
+
+COMANDOS BÁSICOS GIT:
+
+- git clone "link"
+
+Descarga el repositorio remoto que indiquemos en "link" (se recomienda hacer esto la primera vez"
+
+- git add .
+
+Añade TODOS los archivos al seguimiento.
+
+- git commit -m "nombre"
+
+Commitea los archivos previamente añadidos.
+
+- git push origin main o master (depende de la versión)
+
+Sube a GitHub las modificaciones de la rama principal
+
+- git pull origin main o master 
+
+Descarga las modificaciones que se hicieron y no tenemos
