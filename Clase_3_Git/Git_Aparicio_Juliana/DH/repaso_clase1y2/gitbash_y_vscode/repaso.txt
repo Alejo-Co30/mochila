@@ -1,0 +1,5 @@
+GitBash es una aplicación terminal que nos permite a traves de comandos hacer cambios al programa o aplicación.
+Nos permite gestionar diferentes versiones, modificar, agregar o quitar cosas en el código.
+
+VisualStudioCode es un IDE desarrollado por Microsoft, que nos permite crear y desarrollar nuestros programas. El mismo es compatible
+con Mac, Linux y Windows.
