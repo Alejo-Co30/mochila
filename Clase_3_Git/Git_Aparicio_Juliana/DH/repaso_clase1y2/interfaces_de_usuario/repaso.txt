@@ -1,2 +1,0 @@
-Las interfaces del usuario son los medios de comunicación entre los usuarios y la computadora, a través de ella
-un usuario sin experiencia en programación puede interactuar fácilmente solicitando instrucciones a la pc.
