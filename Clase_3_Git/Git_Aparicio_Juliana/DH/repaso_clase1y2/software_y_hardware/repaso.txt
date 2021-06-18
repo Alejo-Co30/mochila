@@ -1,0 +1,4 @@
+El hardware son todos los componentes fisicos que forman parte de la computadora, tanto externo como internos, permiten la
+comunicación entre los usuarios y la misma. Ej: teclado, motherboard, CPU, mouse, Memoria Ram, etc.
+El software por otra parte, es la parte lógica de la computadora encargada de ejecutar todos los calculos y operaciones que
+permiten su funcionamiento y, por ende, que el usuario logre comunicarse e interactuar con la máquina. 
