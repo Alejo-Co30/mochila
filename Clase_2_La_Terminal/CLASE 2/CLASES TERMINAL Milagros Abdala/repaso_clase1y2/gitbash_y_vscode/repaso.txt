@@ -1,2 +1,0 @@
-Visual Studio Code o VSCode es un ENTORNO DE DESARROLLO INTEGRADO (o IDE) creado por Microsoft
-
