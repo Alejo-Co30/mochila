@@ -1,0 +1,34 @@
+git branch
+Visualizar las ramas existentes.
+
+git status
+Visualizar los cambios y estados actuales.
+
+git remote add origin (enlace)
+Relaciona un repertorio remoto con uno local.
+
+git remote -v
+Visualiza la conexión actual del repositorio remoto.
+
+cd
+Permite trasladarse entre carpetas.
+
+git push origin main
+Traslada los cambio hechos al repositorio remoto.
+
+git pull 
+Actualiza los cambios montados en el repositorio remoto-en el repositorio local.
+
+git init
+Crea un nuevo repositorio
+
+touch
+Crea un archivo
+
+mkdir
+crea una carpeta
+
+rm (Nombre doumento)
+Remueve un documento
+
+Otros comandos 
