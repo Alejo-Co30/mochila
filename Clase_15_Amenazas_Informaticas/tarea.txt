@@ -1,0 +1,13 @@
+1.Comprobar el que tenga conexion a internet con el comando ping.
+2.Instale Git con el comando apt-get install git
+3 Clonar el repositorio de la camada3 
+4.Con cd nos posicionamos en la carpeta 15. Con touch cree el archivo tareas.txt y con nano lo editamos
+
+Para que sirve apt-get 
+Descarga e instala paquetes de Debian 
+
+Para que sirve Su-
+Sirve para cambiar el usuario actual a root 
+
+Si, Resulto familiar por los comando que utilizar 
+
