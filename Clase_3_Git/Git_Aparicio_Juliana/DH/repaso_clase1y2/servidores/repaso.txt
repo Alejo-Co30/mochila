@@ -1,2 +1,0 @@
-El servidor es donde se alojan todos los documentos que permiten realizar todos los pedidos del cliente.
-Puede ser de base de datos, de archivos o Web.

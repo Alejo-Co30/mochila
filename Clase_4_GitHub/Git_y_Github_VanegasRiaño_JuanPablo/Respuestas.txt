@@ -1,3 +1,0 @@
-a. Git fue creado por Linus Torvalds en el año 2005 para ser utilizado en el desarrollo del kernel de Linux.
-b. Github fue comprado en el 2018 y actualmente pertenece a Microsoft, esto debido a que Microsoft le quiere apostar más al Open Source y se hace también con la comunidad de desarrollo más nutrida del planeta.
-c. Github tiene su propia app de escritoria para trabajar de una manera más visual
