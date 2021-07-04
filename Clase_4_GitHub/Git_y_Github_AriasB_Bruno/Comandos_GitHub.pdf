@@ -1,9 +1,0 @@
-Crear repositorio local: Git init
-Agregar determinado archivo/s al repositorio local: Git add "nombre del archivo"
-Agregar todos los archivos al repositorio local: Git add .
-Guardar cambios en el repositorio local: git commit -m "descripcion del cambio"
-Ver el estado de nuestro archivos en el repositorio local: Git status
-clonar repositorio por primera vez: Git clone "URL del repositorio"
-Actualizar repositorio local con el repositorio remoto: Git pull
-Subir archivos del repositorio local al remoto: Git push origin "nombre de la rama" (generalmente main o master)
-

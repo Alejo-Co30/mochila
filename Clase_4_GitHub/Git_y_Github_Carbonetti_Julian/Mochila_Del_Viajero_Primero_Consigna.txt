@@ -1,5 +1,0 @@
-a. Git fue creado por Linus Torvalds para que se pueda escribir la interfaz de usuario
-
-b. GitHub pertenece a Microsoft, compañia que la compro en 2018 para mejorar su servicio Microsoft Azure
-
-c. No, pero es la forma mas efectiva.

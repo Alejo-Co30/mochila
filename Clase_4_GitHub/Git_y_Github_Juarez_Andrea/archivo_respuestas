@@ -1,8 +1,0 @@
-a - ¿Quién inventó el sistema de control de versión Git y por qué?
-b - ¿A quién pertenece actualmente Github y por qué?
-c - ¿Hay otra forma que no sea la terminal para trabajar con Github?
-
-Respuestas:
-a - Linus Torvalds creo la primera revisión de git, diseñado inicialmente para el desarrollo de Linux. 
-b - Actualmente GitHub pertenece a Microsoft, el objetivo más inmediato de Microsoft es ofrecer una experiencia integral y atractiva a los programadores y desarrolladores.
-c - Se puede utilizar Git desde diferentes interfaces graficas
