@@ -1,7 +1,0 @@
-1. Realizamos la instalación de git en nuestra máquina virtual a través de comandos.
-
-2. Sirve para instalar aplicaciones determinadas en nuestra MV.
-
-3. El comando su sirve para cambiar de nuestro usuario al superusuario (administrador).
-
-4. No.

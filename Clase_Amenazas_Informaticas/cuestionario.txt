@@ -1,4 +1,0 @@
-1) Realizamos la instalacion de git en nuestra maquina virtual a través de los comandos
-2) apt-get sirve para instalar una aplicación determinada en nuestra MV
-3) el comando SU nos sirve para cambiarnos de usuario al superusuario que sería el admin en linuxdebian
-4) no nos es familiar esta forma de conectarnos a un equipo 
